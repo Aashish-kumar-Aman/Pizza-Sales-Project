@@ -3,11 +3,17 @@ Pizza-Sales-Dashboard
 ## Problem Statement
 
 **KPI REQUIREMENT**
+
 We need to analyze key indicators for our Pizza sales data to gain insights into our buisiness performance. Specially, we want to calculate the Following metrices:
+
 **1.** **Total Revenue:** The sum of the total price of all pizza orders.
+
 **2.** **Average Order Value:** The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+
 **3.** **Total Pizzas Sold:** The summ of all the quantities of pizzas sold.
+
 **4.** **Total Orders:** The total number of orders placed.
+
 **5.** **Average Pizza Per Order:** The average number of pizzas sold per order, calculated by dividing the total number of pizza sold by the total number of orders.
 
 **CHARTS REQUIREMENT**
