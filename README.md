@@ -39,32 +39,65 @@ We need to visualize various aspects of our pizza sales data to gain insights an
    
 **7. Bottom 5 Worst Sellers by Revenue, Quantity and Total Orders:**
    Create a bar chart highlighting the bottom 5 worst selling pizzas based on the Revenue, Quantity and Total Orders. This chart will help us identify the most underperforming less popular pizza options.
+   
 
+**Created Measures**
         
-- Step 6 : New measure was created to find total revenue.
+**1. New measure was created to find Total Revenue**
 
 Following DAX expression was written for the same,
         
-        Revenue = SUM('sales transactions'[norm_sales_amount])
+        Total Revenue = SUM('pizza_sales pizza_sales'[total_price])
         
-A card visual was used to represent Revenue.
+A card visual was used to represent it.
 
-![Screenshot 2024-05-12 160115](https://github.com/Aashish-kumar-Aman/Sales-Insight-Report/assets/79306412/f7e999f7-ac69-4336-9f29-70d17c9aef42)
 
         
- - Step 7 : New measure was created to find total sales quantity
+**2. New measure was created to find Avg Order Value**
  
- Following DAX expression was written to find % of customers,
+ Following DAX expression was written to find Avg Order Value,
  
-         Sales Qty = SUM('sales transactions'[sales_qty]) 129880)*100)
+         Avg Order Value = [Total Revenue]/[Total Orders]
  
- A card visual was used to represent sales quantity.
- 
- 
-![Screenshot 2024-05-12 160122](https://github.com/Aashish-kumar-Aman/Sales-Insight-Report/assets/79306412/f8e6bd63-64d8-4871-847a-e033da37abda)
+ A card visual was used to represent it.
  
 
  
+**3. New measure was created to find Total Pizzas Sold**
+
+ Following DAX expression was written to find Total Pizzas Sold,
+ 
+         Total Pizzas Sold = SUM('pizza_sales pizza_sales'[quantity])
+         
+A card visual was used to represent it.
+
+
+
+**4. New measure was created to find Total Orders**
+
+ Following DAX expression was written to find Total Orders,
+ 
+         Total Orders = DISTINCTCOUNT('pizza_sales pizza_sales'[order_id])
+         
+A card visual was used to represent it.
+
+
+
+**5. New measure was created to find Average Pizza Per Order**
+
+ Following DAX expression was written to find Average Pizza Per Order,
+ 
+         Average Pizza Per Order = [Total Pizzas Sold]/[Total Orders]
+         
+A card visual was used to represent it.
+
+
+
+
+
+
+
+
  
 # Snapshot of Report
 
