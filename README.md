@@ -4,7 +4,7 @@ Pizza-Sales-Dashboard
 
 **KPI REQUIREMENT**
 
-We need to analyze key indicators for our Pizza sales data to gain insights into our buisiness performance. Specially, we want to calculate the Following metrices:
+We need to analyze key indicators for our Pizza sales data to gain insights into our business performance. Specially, we want to calculate the Following metrices:
 
 **1.** **Total Revenue:** The sum of the total price of all pizza orders.
 
