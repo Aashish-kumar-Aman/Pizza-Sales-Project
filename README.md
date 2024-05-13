@@ -17,19 +17,26 @@ We need to analyze key indicators for our Pizza sales data to gain insights into
 **5.** **Average Pizza Per Order:** The average number of pizzas sold per order, calculated by dividing the total number of pizza sold by the total number of orders.
 
 **CHARTS REQUIREMENT**
+
 We need to visualize various aspects of our pizza sales data to gain insights and understand key trends. we have identified the following requirements for creating charts:
+
 **1. Daily Trend for Total Orders:**
    create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctutations in order volumes on a daily basis.
 **2. Monthly Trend for Total Orders:**
    Create a line chart that illustrates the hourly trend of total orders throughout the dy. This chart will allow us to identify peak hours or periods of high order activity.
+   
 **3. Percentage of Sales by Pizza Category:**
    create a pie chart that shows the distribution of sales accross different Pizza categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
+   
 **4. Percentage of sales by Pizza size:**
    Generate a pie chart that represents the percentage  of sales attributed to different pizza sizes. This chart will help us understand customer preferences for pizza sizes and their impact on sales.
+   
 **5. Total Pizzas Sold by Pizza Category:**
    Create a funnel chart that represents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza categories.
+   
 **6. Top 5 Best Sellers by Revenue, Quantity and Total Orders:**
    Create a bar chart highlighting the top 5 best selling pizzas based on the Revenue, Quantity and Total Orders. This chart will help us identify the most popular pizza options.
+   
 **7. Bottom 5 Worst Sellers by Revenue, Quantity and Total Orders:**
    Create a bar chart highlighting the bottom 5 worst selling pizzas based on the Revenue, Quantity and Total Orders. This chart will help us identify the most underperforming less popular pizza options.
 
