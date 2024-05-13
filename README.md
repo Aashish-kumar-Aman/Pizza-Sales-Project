@@ -51,6 +51,7 @@ Following DAX expression was written for the same,
         
 A card visual was used to represent it.
 
+![image](https://github.com/Aashish-kumar-Aman/Pizza-Sales-Project/assets/79306412/48a7d7ba-a203-4f71-8201-950afa83ab6e)
 
         
 **2. New measure was created to find Avg Order Value**
@@ -61,6 +62,7 @@ A card visual was used to represent it.
  
  A card visual was used to represent it.
  
+![image](https://github.com/Aashish-kumar-Aman/Pizza-Sales-Project/assets/79306412/59964793-e405-4d20-80c3-9a3c35ad10c4)
 
  
 **3. New measure was created to find Total Pizzas Sold**
@@ -71,6 +73,7 @@ A card visual was used to represent it.
          
 A card visual was used to represent it.
 
+![image](https://github.com/Aashish-kumar-Aman/Pizza-Sales-Project/assets/79306412/0d777342-5a94-478c-9857-f206cac42edc)
 
 
 **4. New measure was created to find Total Orders**
@@ -81,6 +84,7 @@ A card visual was used to represent it.
          
 A card visual was used to represent it.
 
+![image](https://github.com/Aashish-kumar-Aman/Pizza-Sales-Project/assets/79306412/182110af-ce23-4c55-81fa-05c42f7c2385)
 
 
 **5. New measure was created to find Average Pizza Per Order**
@@ -91,16 +95,14 @@ A card visual was used to represent it.
          
 A card visual was used to represent it.
 
+![image](https://github.com/Aashish-kumar-Aman/Pizza-Sales-Project/assets/79306412/14b5d6fe-1679-45b5-acb9-41e923f4c6fc)
 
-
-
-
-
-
-
- 
 # Snapshot of Report
 
-![Screenshot 2024-05-12 160851](https://github.com/Aashish-kumar-Aman/Sales-Insight-Report/assets/79306412/c4017662-d956-47b3-a798-1124dfef6ef2)
+![image](https://github.com/Aashish-kumar-Aman/Pizza-Sales-Project/assets/79306412/1a031c6f-89ad-40ec-aebc-a8c742d26593)
+
+![image](https://github.com/Aashish-kumar-Aman/Pizza-Sales-Project/assets/79306412/d09594f7-0178-4642-88a2-3d2bde6752e1)
+
+
  
  
